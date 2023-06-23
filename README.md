@@ -123,9 +123,3 @@ For each of the visualization, you can add more 'fancy' stuff. Therefore, you ca
 
 **Good luck!** 
 
-
-# 4. Algorithmic question 
-
-A number ***n*** of kids are in a camp. Between some ***k*** pairs of them (a kid can be part of more than one pairs) there are often fights. At night there are two dormitories where the kids can sleep. We want, if possible, to assign each kid in one of the two dormitories in such a way that each pair of kids that fights often is assigned to a different dormitory. (There are no space problems and the two dormitories can have different number of kids.)
-
-Give an algorithm that is linear in ***n*** and ***k*** that is able to answer whether such an assignment is possible and, if so, return one.
